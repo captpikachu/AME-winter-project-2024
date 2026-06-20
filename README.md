@@ -2,4 +2,6 @@
 
 The model is a pretrained model on the ImageNet dataset, which was loaded and fine-tuned for the classification task of defective and non-defective tracks.
 
+Test accuracy: 0.8739
+
 The accuracy obtained for the classification task was **88%**, indicating a good working model.
